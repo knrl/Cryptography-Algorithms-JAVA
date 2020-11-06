@@ -12,7 +12,7 @@ Implementation of encoding/decoding, symmetric and asymmetric encryption/decrypt
 | Base 16 to base 2 | [base16to2.java](baseConverters/base16to2/base16to2.java)|
 | Base 8 to base 10 | [base8to10.java](baseConverters/base8to10/base8to10.java)|
 
-### Symetric Encryption Algorithms
+### Symmetric Encryption Algorithms
 | Problem | Solution |
 | :------------ | :----------: |
 | Affine Cipher | [affine-cipher](symetric-encryption-algorithms/Affine/)|
