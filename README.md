@@ -27,3 +27,4 @@ Implementation of encoding/decoding, symmetric and asymmetric encryption/decrypt
 | ROTX Cipher | [rotx-cipher](symetric-encryption-algorithms/ROTX/)|
 | Spec Cipher | [spec-cipher](symetric-encryption-algorithms/SpecCipher/)|
 | Base64 Cipher | [base64-cipher](symetric-encryption-algorithms/Base64/)|
+| Trifid Cipher | [trifid-cipher](symetric-encryption-algorithms/Trifid/)|
